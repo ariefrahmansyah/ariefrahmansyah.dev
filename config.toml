@@ -1,0 +1,57 @@
+baseURL = "https://ariefrahmansyah.dev/"
+languageCode = "en-us"
+title = "Arief Rahmansyah"
+theme = "hugo-ink"
+paginate = 10
+rssLimit = 10
+
+copyright = "ariefrahmansyah.dev"
+
+googleAnalytics = "UA-156805201-1"
+
+[params]
+    subtitle = "Personal blog of a software engineer"
+
+    # Optional 64x64 avatar image.
+    # avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+
+    featherIconsCDN = true
+
+[taxonomies]
+   tag = "tags"
+
+########################################
+# Navigation bar
+########################################
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+########################################
+# Social media
+########################################
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/ariefrahmansyah"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linkedin.com/in/ariefrahmansyah"
