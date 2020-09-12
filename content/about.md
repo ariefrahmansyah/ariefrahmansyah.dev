@@ -5,3 +5,7 @@ type: "page"
 ---
 
 Hi, welcome to my personal blog.
+
+## What am I doing now?
+
+See my [now page](/now).
