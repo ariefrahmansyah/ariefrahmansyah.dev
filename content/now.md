@@ -1,7 +1,8 @@
 ---
-title: "Now"
+title: Now
 date: 2020-09-12T18:00:00+07:00
-type: "page"
+description: What am I up to these days
+type: page
 ---
 
 This is my first attempt at building a [now page](https://nownownow.com/about). A page where you can get the answer what am I up to these days.

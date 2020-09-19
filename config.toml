@@ -10,7 +10,8 @@ copyright = "ariefrahmansyah.dev"
 googleAnalytics = "UA-156805201-1"
 
 [params]
-    subtitle = "Personal blog of a software engineer"
+    subtitle = "Personal blog of a Software and Machine Learning Engineer"
+    description = "On software engineering, machine learning engineering, and being human"
 
     # Optional 64x64 avatar image.
     # avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
