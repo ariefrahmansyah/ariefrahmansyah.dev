@@ -10,7 +10,7 @@ copyright = "ariefrahmansyah.dev"
 googleAnalytics = "UA-156805201-1"
 
 [params]
-    subtitle = "Personal blog of a Software and Machine Learning Engineer"
+    subtitle = "Personal website of a Software and Machine Learning Engineer"
     description = "On software and machine learning engineering"
 
     # Optional 64x64 avatar image.

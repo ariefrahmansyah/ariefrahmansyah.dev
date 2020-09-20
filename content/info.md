@@ -62,3 +62,4 @@ Links to some things about me:
 - [Instagram](https://instagram.com/ariefrahmansyah)
 - [LinkedIn](https://linkedin.com/in/ariefrahmansyah)
 - [Twitter](https://twitter.com/ariefr23)
+- [Wordpress](https://ariefrahmansyah.wordpress.com/) - My old blog
