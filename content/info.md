@@ -20,6 +20,7 @@ These are **not** correct:
 - Arif Rahmansah (missing the `e` and `y`)
 - Arief Rachmansyah (adding the `c`)
 - Arief Rahmadsyah (replacing the `n` with `d`)
+- Arief Rahmanshah (replacing the `y` with `h`)
 
 ---
 
