@@ -10,7 +10,7 @@ copyright = "ariefrahmansyah.dev"
 googleAnalytics = "UA-156805201-1"
 
 [params]
-    subtitle = "Personal website of a lifelong learner"
+    # subtitle = ""
     description = "On lifelong learning, currently more focused on software and machine learning engineering"
 
     # Optional 64x64 avatar image.
