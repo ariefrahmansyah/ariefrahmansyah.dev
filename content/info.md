@@ -56,8 +56,8 @@ Arief Rahmansyah is a Software and Machine Learning Engineer.
 
 Links to some things about me:
 
-- [Website](https://ariefrahmansyah.dev) - This website
-- [Info](https://ariefrahmansyah.dev/info) - This page
+- [Website](/) - This website
+- [Info](/info) - This page
 - [GitHub](https://github.com/ariefrahmansyah)
 - [Goodreads](https://www.goodreads.com/user/show/6221521-arief-rahmansyah)
 - [Instagram](https://instagram.com/ariefrahmansyah)

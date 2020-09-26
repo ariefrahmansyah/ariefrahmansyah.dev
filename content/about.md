@@ -18,3 +18,4 @@ Here are a few pages on this site that aren't included in the site navigation, b
 
 - [Info](/info) - My bio/photo/how to spell my name/etc.
 - [Now](/now) - What am I up to these days.
+- [Colophon](/colophon) - How I built this website.
