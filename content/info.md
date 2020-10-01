@@ -61,6 +61,8 @@ Links to some things about me:
 - [GitHub](https://github.com/ariefrahmansyah)
 - [Goodreads](https://www.goodreads.com/user/show/6221521-arief-rahmansyah)
 - [Instagram](https://instagram.com/ariefrahmansyah)
+- [Letterboxd](https://letterboxd.com/ariefrahmansyah)
 - [LinkedIn](https://linkedin.com/in/ariefrahmansyah)
+- [Spotify](https://open.spotify.com/user/ariefrahmansyah)
 - [Twitter](https://twitter.com/ariefr23)
-- [Wordpress](https://ariefrahmansyah.wordpress.com/) - My old blog
+- [Wordpress](https://ariefrahmansyah.wordpress.com) - My old blog
