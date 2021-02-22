@@ -1,0 +1,30 @@
+talks:
+  - title: Pengenalan Machine Learning
+    date: 2020-07-13T10:00:00+07:00
+    link: https://www.youtube.com/watch?v=9655cwpml2I
+    thumbnail: https://i.ytimg.com/vi/9655cwpml2I/hqdefault.jpg
+    description: Sharing session with Palembang Digital
+
+  - title: Karir Software Engineer
+    date: 2020-11-28T10:00:00+07:00
+    link: https://www.youtube.com/watch?v=X1xU8OXNLTE
+    thumbnail: https://i.ytimg.com/vi/X1xU8OXNLTE/hqdefault.jpg
+    description: As one of panelists at Sriwijaya Digital Festival 2020
+
+  - title: Making Machine Learning Model Deployments Magical with Merlin
+    date: 2020-11-14T10:00:00+07:00
+    link: https://www.youtube.com/watch?v=JwXkmfgA67c
+    thumbnail: https://i.ytimg.com/vi/JwXkmfgA67c/hqdefault.jpg
+    description: Python Conference Indonesia 2020
+
+  - title: Cerita Sukses Anak Palembang
+    date: 2020-12-03T10:00:00+07:00
+    link: https://www.youtube.com/watch?v=wK9EdhTSCpU
+    thumbnail: https://i.ytimg.com/vi/wK9EdhTSCpU/hqdefault.jpg
+    description: Interview with Joneten Saputra on Palembang Digital AMA
+
+  - title: Seputar Machine Learning Engineering
+    date: 2021-02-21T10:00:00+07:00
+    link: https://www.youtube.com/watch?v=GhaP-u8SK9s
+    thumbnail: https://i.ytimg.com/vi/GhaP-u8SK9s/hqdefault.jpg
+    description: Interview with Setia Budi on Indonesia Belajar

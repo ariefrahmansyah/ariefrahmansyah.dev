@@ -1,0 +1,28 @@
+{{ $prevYear := 0 }}
+<table>
+  {{ range sort $.Site.Data.talks.talks "date" "desc" }}
+  {{ $currYear := dateFormat "2006" .date }}
+  {{ if ne $prevYear $currYear }}
+  <tr style="background-color: transparent;">
+    <td style="border-color: transparent;">
+      <h2 style="margin: 0;">{{ $currYear }}</h2>
+    </td>
+  </tr>
+  {{ $prevYear = $currYear }}
+  {{ end }}
+
+  <tr style="background-color: transparent;">
+    <td style="border-color: transparent;">
+      <a href="{{ .link }}"><img src="{{ .thumbnail }}" width="120px" /></a>
+    </td>
+    <td style="border-color: transparent; vertical-align: middle;">
+      <h4 class="title small">
+        <a href="{{ .link }}">{{ .title }}</a>
+      </h4>
+      <span class="description">
+        {{ .description }}
+      </span>
+    </td>
+  </tr>
+  {{ end }}
+</table>
