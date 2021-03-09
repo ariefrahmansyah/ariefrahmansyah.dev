@@ -25,29 +25,24 @@ googleAnalytics = "UA-156805201-1"
 # Navigation bar
 ########################################
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
 name = "Posts"
 url = "/posts"
-weight = 2
+weight = 1
 
 [[menu.main]]
 name = "Talks"
 url = "/talks"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 4
+weight = 3
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 5
+weight = 4
 
 ########################################
 # Social media

@@ -36,11 +36,11 @@ These are **not** correct:
 
 ### Long, 1st person
 
-Hi, my name is Arief Rahmansyah and I'm a Software and Machine Learning Engineer. I grew up in Indonesia and studied at Sriwijaya University, where I graduated with a Bachelor's degree in Computer Science. My first job after college was as a Software Engineer at Tokopedia, an Indonesia's unicorn e-commerce startup, where I worked on the payment system. I then moved to Gojek, first Indonesia's decacorn, as a Machine Learning Engineer. I live in Singapore, where I love reading, running, and traveling.
+Hi, my name is Arief Rahmansyah and I'm a Software and Machine Learning Engineer. I grew up in Indonesia and studied at Sriwijaya University, where I graduated with a Bachelor's degree in Computer Science. My first job after college was as a Software Engineer at Tokopedia, Indonesia's unicorn e-commerce startup, where I worked on the payment system. I then moved to Gojek, first Indonesia's decacorn, working as a Machine Learning Engineer to democratize and scale machine learning across organizations. I live in Singapore, where I love reading, running, and traveling.
 
 ### Long, 3rd person
 
-Arief Rahmansyah is a Software and Machine Learning Engineer. He grew up in Indonesia and studied at Sriwijaya University, where he graduated with a Bachelor's degree in Computer Science. His first job after college was as a Software Engineer at Tokopedia, an Indonesia's unicorn e-commerce startup, where he worked on the payment system. He then moved to Gojek, first Indonesia's decacorn, as a Machine Learning Engineer. Arief lives in Singapore, where he loves reading, running, and traveling.
+Arief Rahmansyah is a Software and Machine Learning Engineer. He grew up in Indonesia and studied at Sriwijaya University, where he graduated with a Bachelor's degree in Computer Science. His first job after college was as a Software Engineer at Tokopedia, Indonesia's unicorn e-commerce startup, where he worked on the payment system. He then moved to Gojek, first Indonesia's decacorn, working as a Machine Learning Engineer to democratize and scale machine learning across organizations. Arief lives in Singapore, where he loves reading, running, and traveling.
 
 ### Short, 1st person
 

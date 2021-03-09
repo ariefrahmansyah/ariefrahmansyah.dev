@@ -16,6 +16,6 @@ If you'd like to get in touch with me, you can send me an [email](mailto:hi@arie
 
 Here are a few pages on this site that aren't included in the site navigation, but might interest you:
 
-- [Info](/info) - My bio/photo/how to spell my name/etc.
+- [Info](/info) - My bio, photo, how to spell my name, etc.
 - [Now](/now) - What am I up to these days.
 - [Colophon](/colophon) - How I built this website.
