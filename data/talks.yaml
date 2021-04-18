@@ -29,8 +29,14 @@ talks:
     thumbnail: https://i.ytimg.com/vi/GhaP-u8SK9s/hqdefault.jpg
     description: Interview with Setia Budi on Indonesia Belajar
 
+  - title: Step Up After Graduation
+    date: 2021-04-11T10:00:00+07:00
+    link: https://www.youtube.com/watch?v=HBrk5CsETu0&t=1096
+    thumbnail: /step-up-after-graduation_if-unsri.png
+    description: Sharing session with students of Informatics Sriwijaya University
+
   - title: Introduction to Machine Learning
-    date: 2021-04-18T10:00:00+07:00
+    date: 2021-04-17T10:00:00+07:00
     link: https://www.youtube.com/watch?v=ZqofRCnEqaQ&t=10700
     thumbnail: /intro-to-ml_kuliah-umum-if-unsri.png
-    description: As one of panelists at public lecture by Informatics - Sriwijaya University
+    description: As one of panelists at public lecture by Informatics Sriwijaya University
